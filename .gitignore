@@ -12,4 +12,4 @@ app.js
 
 archive/
 
-.DS_store
+.DS_store.env
